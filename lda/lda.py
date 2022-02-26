@@ -7,7 +7,7 @@ import sys
 
 import numpy as np
 
-import lda._lda
+
 import lda.utils
 
 logger = logging.getLogger('lda')
